@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+a
+{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    cursor: default;
+}
+
+.header1
+{
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 0px;
+    background: rgb(54, 54, 54) ; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.Home 
+{
+    color: #fff;
+    font-family: 'poppins';
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 25px;
+    cursor: default;
+}
+
+body
+{
+    background-color: rgb(20, 19, 19);
+}
+
+.navbar a
+{
+    color:#fff;
+    font-size: 25px;
+    font-family: 'poppins';
+    margin-left: 95px;
+    font-weight: 600;
+}
+
+
+.judul h1 {
+    text-decoration: none;
+    color: antiquewhite;
+    font-family: Poppins;
+    justify-content: center;
+    text-align: center;
+   
+}
+
+.judul p {
+    text-align: center;
+    justify-content: center;
+    color: #fff1f1;
+    font-size: 30px;
+}
+
+.tengah {
+    text-align: center;
+    width: 100%;
+    justify-content: center;
+    
+    
+}
+
+.foto p {
+    color: #fff;
+    text-decoration: solid;
+    font-family: Poppins;
+    font-size: 30px;
+
+}
+.foto {
+    width: 25%;
+    
+}
+
+.foto img {
+    width: 70%;
+   border-radius: 25%;
+ 
+}
+.fotomurid {
+   display: flex;
+    flex-wrap: wrap;
+}
+
+h2
+{
+    font-family: "Poppins";
+    color: #fff;
+    margin: 0;
+    padding: 8px 580px;
+    padding-right: 25px;
+}

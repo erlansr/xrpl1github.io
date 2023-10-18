@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+a
+{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.header1
+{
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 0px;
+    background: rgba(0, 0, 0, 0.182) ; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(15px);
+}
+
+h1 
+{
+    display: flex;
+    justify-content: center;
+    font-family: 'Poppins';
+    color: rgb(255, 255, 255);
+    margin-top: 6%;
+    font-size: 5vh;
+    text-shadow: 6px 6px 6px black;
+    font-family: "Poppins";
+}
+
+body
+{
+    background-image: url(foto\ kelzzz\ pake\ z.jpg);
+}
+
+.Home 
+{
+    color: #fff;
+    font-family: 'poppins';
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 25px;
+    cursor: default;
+}
+
+.navbar a
+{
+    color:#fff;
+    font-size: 25px;
+    font-family: 'poppins';
+    margin-left: 95px;
+    font-weight: 600;
+    cursor: default;
+}
+
+h2
+{
+    font-family: "Poppins";
+    color: #fff;
+    margin: 0;
+    padding: 380px 580px;
+    padding-right: 25px;
+}
